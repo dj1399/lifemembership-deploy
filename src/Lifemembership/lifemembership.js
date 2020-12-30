@@ -2,7 +2,7 @@ import React from "react";
 import "./lifemembership.css";
 import pic from "../Imgs/pic.svg";
 import arrow from "../Imgs/Arrow 1.svg";
-function lifemembership()
+function Lifemembership()
 {
     return(
     <>
@@ -23,4 +23,4 @@ function lifemembership()
     </div>
     </>)
 }
-export default lifemembership 
+export default Lifemembership 
